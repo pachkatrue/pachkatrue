@@ -6,13 +6,13 @@ Frontend developer focused on building modern web interfaces and application exp
 
 ### [aa22.ru — Akcent Auto](https://aa22.ru)
 
-Production e-commerce platform for automotive parts and services. I worked on the frontend architecture and development of the catalog, cart and B2B/B2C checkout flows.
+Production e-commerce platform for automotive parts and services. I was the **sole frontend developer**, with end-to-end responsibility for the frontend: architecture, UI, business logic, integrations, responsive design, refactoring and performance.
 
 **React · Next.js · TypeScript · SCSS / CSS Modules · State Management · SSR · REST API**
 
 Key areas of work:
 
-- Frontend architecture and development of catalog, cart and checkout flows
+- Frontend architecture and development of catalog, cart and B2B/B2C checkout flows
 - Integration with **Laximo** automotive parts APIs and mapping data into the product catalog
 - **Yandex Maps API** integration for delivery calculation and pickup points
 - **Yandex SmartCaptcha** integration
@@ -23,7 +23,7 @@ Key areas of work:
 - Performance and UX improvements across the application
 - Collaboration with backend, design and business teams on API contracts and product interfaces
 
-[Open production project](https://aa22.ru)
+[Production project](https://aa22.ru) · [Case study](https://github.com/pachkatrue/pachkatrue/blob/main/case-studies/aa22.md)
 
 ## What I work with
 
