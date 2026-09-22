@@ -2,15 +2,39 @@
 
 Frontend developer focused on building modern web interfaces and application experiences with React, TypeScript and Next.js.
 
+## Production project
+
+### [aa22.ru — Akcent Auto](https://aa22.ru)
+
+Production e-commerce platform for automotive parts and services. I worked on the frontend architecture and development of the catalog, cart and B2B/B2C checkout flows.
+
+**React · Next.js · TypeScript · SCSS / CSS Modules · State Management · SSR · REST API**
+
+Key areas of work:
+
+- Frontend architecture and development of catalog, cart and checkout flows
+- Integration with **Laximo** automotive parts APIs and mapping data into the product catalog
+- **Yandex Maps API** integration for delivery calculation and pickup points
+- **Yandex SmartCaptcha** integration
+- Advanced filtering, facets and product recommendation integrations
+- Complex client-side business logic and multi-step checkout forms
+- Responsive UI standardization across desktop, tablet and mobile
+- Refactoring legacy frontend code and building reusable UI components
+- Performance and UX improvements across the application
+- Collaboration with backend, design and business teams on API contracts and product interfaces
+
+[Open production project](https://aa22.ru)
+
 ## What I work with
 
 - React / TypeScript
 - Next.js
 - React Native
-- Redux Toolkit
+- Redux / State Management
 - REST APIs
 - Jest / React Testing Library
 - Responsive UI, accessibility and performance
+- CI/CD, Docker and Linux
 
 ## Featured projects
 
