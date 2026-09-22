@@ -52,10 +52,12 @@ Next.js storefront focused on product browsing, asynchronous data loading, cart 
 
 [Live demo](https://ecommerce-storefront.netlify.app)
 
-### [F1 Racing Mobile](https://github.com/pachkatrue/f1-racing-mobile)
-React Native mobile application for browsing Formula 1 driver and race data through a public racing-data API.
+### [Lumen Storefront](https://github.com/pachkatrue/lumen-storefront)
+Modern storefront interface focused on product browsing, responsive UI and e-commerce experience.
 
-**React Native · TypeScript · Redux · Axios**
+**Frontend · E-commerce UI**
+
+[Live demo](https://lumen-storefront.netlify.app)
 
 ### [Budss Landing](https://github.com/pachkatrue/budss-landing)
 Responsive landing page built with semantic HTML, modular CSS and vanilla JavaScript.
