@@ -23,7 +23,7 @@ Key areas of work:
 - Performance and UX improvements across the application
 - Collaboration with backend, design and business teams on API contracts and product interfaces
 
-[Production project](https://aa22.ru) · [Case study](https://github.com/pachkatrue/pachkatrue/blob/main/case-studies/aa22.md)
+[Production project](https://aa22.ru) · [Case study](https://github.com/pachkatrue/aa22-frontend-case-study)
 
 ## What I work with
 
